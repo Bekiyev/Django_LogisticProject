@@ -1,0 +1,31 @@
+{% load staticfiles %}
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include 'header.html' %}
+  </head>
+
+  <body>
+
+    {% include 'navbar.html' %}
+    
+
+    {% block jumbotron %}
+
+    {% endblock %}                          
+    
+
+    <!-- Three columns of text below the carousel -->
+    {% block content %}
+        
+    {% endblock %}
+
+
+      <!-- /END THE FEATURETTES -->
+    
+    
+    {% include 'footer.html' %}
+  </body>
+</html>
+

@@ -1,0 +1,98 @@
+#cost_colculate_container {
+	padding-top: 70px;
+}
+
+#calc_button {
+background-color: rgba(201, 138, 8, 0.34);
+border-color: #9dff19;
+}
+
+.jumbotron {
+	background: url("/static/img/jumbo_background.jpg") no-repeat;
+	background-size: cover;
+	background-color: blue;
+	/*padding-bottom: 28rem;*/
+	/*background-attachment:fixed*/
+}
+
+
+#footer_background_img {
+	background: url("/static/img/nav_background.png");
+	background-size:100% auto;
+	background-repeat: no-repeat;
+	border-bottom: white solid 1px;
+	text-align: center;
+
+}
+
+#row_backround-img1 {
+	background: url("/static/img/background_row_img1.jpg") no-repeat;
+	background-size: cover;
+	background-attachment:fixed;
+	height: 550px;
+	color: white;
+	border:white solid 1px;
+}
+
+#row_backround-img2 {
+	background: url("/static/img/background_row_img2.jpg") no-repeat;
+	background-size: cover;
+	background-attachment:fixed;
+	height: 550px;
+	color: white;
+	border:white solid 1px;
+}
+
+#row_backround-img3 {
+	background: url("/static/img/background_row_img3.jpg") no-repeat;
+	background-size: cover;
+	background-attachment:fixed;
+	height: 550px;
+	color: white;
+	border:white solid 1px;
+}
+
+.p_h_tag_color {
+	color: white;
+}
+#ortarada {
+	text-align: center;
+}
+
+#suratly_row {
+	margin-right: 50px;
+	margin-left: 50px;
+}
+
+
+#nav_back_id {
+	background: url("/static/img/nav_background.png");
+	background-size:100% auto;
+	background-repeat: no-repeat;
+	border-bottom: white solid 1px;
+}
+
+
+#safe_reliable {
+	text-align: center;
+	color: white;
+}
+
+img.rounded-circle {
+	width: 240px;
+	height: 180px;
+}
+
+.rounded-circle {
+	border-radius: 10%
+}
+
+
+.ul_navbar_onarmak {
+	margin-right: 4em;
+	
+}
+
+.li_navbar_onarmak {
+	padding-right: 10px;
+}
